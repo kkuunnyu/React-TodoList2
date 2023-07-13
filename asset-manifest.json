@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/kkuunnyu/react-todolist2.git/static/css/main.2c4b6452.css",
+    "main.js": "/kkuunnyu/react-todolist2.git/static/js/main.fc6deaf4.js",
+    "index.html": "/kkuunnyu/react-todolist2.git/index.html",
+    "main.2c4b6452.css.map": "/kkuunnyu/react-todolist2.git/static/css/main.2c4b6452.css.map",
+    "main.fc6deaf4.js.map": "/kkuunnyu/react-todolist2.git/static/js/main.fc6deaf4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2c4b6452.css",
+    "static/js/main.fc6deaf4.js"
+  ]
+}
